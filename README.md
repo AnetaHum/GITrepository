@@ -1,1 +1,2 @@
-# GITrepository Ahoj ako sa mas ?
+# GITrepository Ahoj
+Ako sa mas ?
