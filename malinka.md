@@ -1,0 +1,5 @@
+Malinka
+
+*krasna
+*vonava
+*fajnova
