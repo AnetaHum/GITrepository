@@ -1,5 +1,5 @@
 #Jahodka
 
-*vyborna
+*vybooooorna
 *skvela
 *cervena
