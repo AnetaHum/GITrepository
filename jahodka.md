@@ -3,3 +3,4 @@
 *vybornaaaa
 *skvela
 *cervena
+*stavnata
