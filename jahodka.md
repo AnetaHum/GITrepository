@@ -8,5 +8,6 @@
 *zelena
 *mnam mnam
 *zdrava
+*chutna
 
 
