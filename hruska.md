@@ -3,4 +3,4 @@
 *stavnata
 *sladka
 *zelena
-ZMENA la la la hi
+ZMENA la la la hi hi
